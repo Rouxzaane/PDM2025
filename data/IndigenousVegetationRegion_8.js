@@ -1,0 +1,31 @@
+var json_IndigenousVegetationRegion_8 = {
+"type": "FeatureCollection",
+"name": "IndigenousVegetationRegion_8",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "1", "Vegetation": "Region A" }, "geometry": { "type": "Point", "coordinates": [ 18.441462784977851, -33.569002412584233 ] } },
+{ "type": "Feature", "properties": { "id": "2", "Vegetation": "Region B" }, "geometry": { "type": "Point", "coordinates": [ 18.489502156362285, -33.767530107606291 ] } },
+{ "type": "Feature", "properties": { "id": "3", "Vegetation": "Region C" }, "geometry": { "type": "Point", "coordinates": [ 18.368023286194767, -33.809291131613577 ] } },
+{ "type": "Feature", "properties": { "id": "4", "Vegetation": "Region D" }, "geometry": { "type": "Point", "coordinates": [ 18.543615471255084, -33.596603095073938 ] } },
+{ "type": "Feature", "properties": { "id": "5", "Vegetation": "Region E" }, "geometry": { "type": "Point", "coordinates": [ 18.774701412914649, -33.760644467231302 ] } },
+{ "type": "Feature", "properties": { "id": "6", "Vegetation": "Region F" }, "geometry": { "type": "Point", "coordinates": [ 18.591930930980801, -33.86708045043769 ] } },
+{ "type": "Feature", "properties": { "id": "7", "Vegetation": "Region G" }, "geometry": { "type": "Point", "coordinates": [ 18.620506074304298, -33.978535328526405 ] } },
+{ "type": "Feature", "properties": { "id": "8", "Vegetation": "Region H" }, "geometry": { "type": "Point", "coordinates": [ 18.413991995019515, -33.971380482794167 ] } },
+{ "type": "Feature", "properties": { "id": "9", "Vegetation": "Region J" }, "geometry": { "type": "Point", "coordinates": [ 18.386245116719895, -34.064289316606015 ] } },
+{ "type": "Feature", "properties": { "id": "10", "Vegetation": "Region K" }, "geometry": { "type": "Point", "coordinates": [ 18.373268964679273, -33.99747845168838 ] } },
+{ "type": "Feature", "properties": { "id": "11", "Vegetation": "Region L" }, "geometry": { "type": "Point", "coordinates": [ 18.333650287704181, -34.031233666145191 ] } },
+{ "type": "Feature", "properties": { "id": "12", "Vegetation": "Region M" }, "geometry": { "type": "Point", "coordinates": [ 18.383346189136347, -34.046218966043519 ] } },
+{ "type": "Feature", "properties": { "id": "13", "Vegetation": "Region N" }, "geometry": { "type": "Point", "coordinates": [ 18.438839945735602, -34.101561534548978 ] } },
+{ "type": "Feature", "properties": { "id": "14", "Vegetation": "Region P" }, "geometry": { "type": "Point", "coordinates": [ 18.339034010359331, -34.15492596534186 ] } },
+{ "type": "Feature", "properties": { "id": "15", "Vegetation": "Region Q" }, "geometry": { "type": "Point", "coordinates": [ 18.404743035586311, -34.18416497365299 ] } },
+{ "type": "Feature", "properties": { "id": "16", "Vegetation": "Region R" }, "geometry": { "type": "Point", "coordinates": [ 18.42959098630239, -34.229374106878815 ] } },
+{ "type": "Feature", "properties": { "id": "17", "Vegetation": "Region S" }, "geometry": { "type": "Point", "coordinates": [ 18.424069219476593, -34.280490548714816 ] } },
+{ "type": "Feature", "properties": { "id": "18", "Vegetation": "Region T" }, "geometry": { "type": "Point", "coordinates": [ 18.568739510312458, -34.062116503535727 ] } },
+{ "type": "Feature", "properties": { "id": "19", "Vegetation": "Region U" }, "geometry": { "type": "Point", "coordinates": [ 18.89590419474089, -34.196953854346305 ] } },
+{ "type": "Feature", "properties": { "id": "20", "Vegetation": "Region V" }, "geometry": { "type": "Point", "coordinates": [ 18.98149158054073, -34.070807421537829 ] } },
+{ "type": "Feature", "properties": { "id": "21", "Vegetation": "Region W" }, "geometry": { "type": "Point", "coordinates": [ 18.714238066172197, -34.067376902500001 ] } },
+{ "type": "Feature", "properties": { "id": "22", "Vegetation": "Region X" }, "geometry": { "type": "Point", "coordinates": [ 18.508552251911286, -34.074466488738324 ] } },
+{ "type": "Feature", "properties": { "id": "23", "Vegetation": "Region Y" }, "geometry": { "type": "Point", "coordinates": [ 18.864154035492565, -34.237591343654287 ] } },
+{ "type": "Feature", "properties": { "id": "24", "Vegetation": "Region Z" }, "geometry": { "type": "Point", "coordinates": [ 18.646044245873611, -34.026428658412932 ] } }
+]
+}
